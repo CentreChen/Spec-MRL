@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.env
+.env.*
+trained_models/
+output/
+outputs/
+data/
+logs/
+*.log
+*.pt
+*.safetensors
